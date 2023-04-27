@@ -1,3 +1,5 @@
 add after first commit.
 add after second commit.
 add before third commit.
+record in index.
+record in tree.

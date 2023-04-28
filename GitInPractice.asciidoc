@@ -3,3 +3,4 @@ add after second commit.
 add before third commit.
 record in index.
 record in tree.
+first line for 2 remote Git.
